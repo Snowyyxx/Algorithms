@@ -4,8 +4,8 @@
 
 /*
 Assume we have coins of values 1, 5, 10,
- and 25 (cents), and we want to provide 
- change for an amount using the fewest number of coins.
+and 25, and we want to provide change for 
+an amount using the fewest number of coins.
 */
 
 
