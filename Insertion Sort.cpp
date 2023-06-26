@@ -14,8 +14,7 @@ void InsertionSort(std::vector<int>&Numbers){
             std::swap(Numbers[j],Numbers[j+1]);
             j =j-1;
         }
-        
-        Numbers[j+1]=key;
+// I am swwapping the numbers, I am not deleting the number at Numbers[j+1]!        
 
     }
 
